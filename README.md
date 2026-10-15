@@ -144,7 +144,8 @@ Typical components include:
 - 📂 Data — raw and cleaned CSV datasets
 - 📂 Excel — spreadsheet analysis
 - 📂 Python — data cleaning and exploratory analysis scripts
-- 📂 SQL / PostgreSQL — database setup and analysis queries
+- 📂 PostgreSQL — database setup 
+- 📂 SQL — analysis queries and kpi
 - 📂 Power BI — report and dashboard files
 
 ---
