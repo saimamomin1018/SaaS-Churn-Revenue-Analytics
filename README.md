@@ -89,17 +89,27 @@ The Power BI report contains five analytical pages:
 ### 📌 Page 1 — Executive Overview
 Provides a high-level view of subscription performance, revenue, and churn through KPI cards and summary visuals.
 
+![Executive Overview](./01-executive-overview.png)
+
 ### 👥 Page 2 — Customer Success & Churn
 Explores customer churn patterns, recorded churn reasons, and relevant customer success indicators.
+
+![Customer Success & Churn](./02-customer-success-churn.png)
 
 ### 💰 Page 3 — Revenue & Subscription Analysis
 Examines MRR, ARR, plan-tier contributions, billing frequency, and subscription patterns.
 
+![Revenue & Subscription Analysis](./03-revenue-subscription-analysis.png)
+
 ### 🧩 Page 4 — Feature Usage Analysis
 Explores feature activity, usage volume, usage duration, and recorded errors.
 
+![Feature Usage Analysis](./04-feature-usage-analysis.png)
+
 ### 🎧 Page 5 — Support & Customer Success
 Reviews support ticket patterns, satisfaction scores, response and resolution times, and escalations.
+
+![Support & Customer Success](./05-support-customer-success.png)
 
 Interactive slicers allow users to explore the available data by relevant categories and dates.
 
