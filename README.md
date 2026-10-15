@@ -104,7 +104,7 @@ Examines MRR, ARR, plan-tier contributions, billing frequency, and subscription 
 ### 🧩 Page 4 — Feature Usage Analysis
 Explores feature activity, usage volume, usage duration, and recorded errors.
 
-![Page 4 — Feature Usage Analysis](./Page4_Feature_Usage_Analysis.png)
+![Page 4 — Feature Usage](./Page4_Feature_Usage.png)
 
 ### 🎧 Page 5 — Support & Customer Success
 Reviews support ticket patterns, satisfaction scores, response and resolution times, and escalations.
