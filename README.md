@@ -146,8 +146,6 @@ Typical components include:
 - 📂 Python — data cleaning and exploratory analysis scripts
 - 📂 SQL / PostgreSQL — database setup and analysis queries
 - 📂 Power BI — report and dashboard files
-- 📂 Images — screenshots and project evidence
-- 📂 Documentation — project report and supporting material
 
 ---
 
